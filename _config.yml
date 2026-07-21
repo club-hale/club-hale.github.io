@@ -1,0 +1,10 @@
+title: Club Hale
+description: Webpage for the Club Hale website made as a part of the ICS 314 course.
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-midnight
+github:
+  is_project_page: true
+  repository_url: https://github.com/club-hale/club-hale.github.io#
+gems:
+  - jekyll-mentions
