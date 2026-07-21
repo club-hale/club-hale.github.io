@@ -1,6 +1,7 @@
 ## Table of Contents
 
 * [Project Overview & Goals](#project-overview--goals)
+* [Development Tools](#development-tools)
 * [Planned Features](#planned-features)
 * [Future Enhancements](#future-enhancements)
 
@@ -13,6 +14,14 @@ There are over 200 registered independent organizations (RIOs) at UH Mānoa, alo
 In Hawaiian, *Hale* means "House". As such, the goal of Club Hale is to bridge the gap between students and student organizations. We want to build a central hub that makes it as easy as possible for students to find organizations that suit their interests through a single, interactive, and searchable directory.  
 
 Whether you're looking to build your resume, pick up a new athletic hobby, play music, or simply find your community on campus, this platform ensures you never miss out on what UH Mānoa has to offer.
+
+## Development Tools
+
+The project repository is hosted under our [GitHub Organization](https://github.com/club-hale/). We plan to use the following tools and technologies to develop the Club Hale site:
+
+* [Next.js](https://nextjs.org/) for component-based UI implementation and routing.
+* [Vercel](https://vercel.com/) for project deployment and hosting.
+* [Neon](https://neon.tech/) for our serverless PostgreSQL backend database.
 
 ## Planned Features
 
